@@ -1,0 +1,39 @@
+.container {
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30%;
+    background-color:  #85c1e9 ;
+}
+  
+  .box {
+    width: 100px;
+    height: 100px;
+    margin: 0 10px;
+    background-color:  #212f3d ;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 400%;
+    font-family: Arial, Helvetica, sans-serif;
+    color:  #839192 ;
+    
+  }
+
+form {
+    background-color: #212f3d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    text-align: center;
+    background-color: #839192;
+    border: 0px;
+}
