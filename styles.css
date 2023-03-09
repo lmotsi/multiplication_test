@@ -1,3 +1,10 @@
+body {
+    background-image: url("./back3.jpg");
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    background-position: center;
+    opacity: 0.7;
+}
 .container {
     justify-content: center;
     align-items: center;
@@ -37,3 +44,23 @@ input {
     background-color: #839192;
     border: 0px;
 }
+
+/*
+    Footer Styling
+*/
+footer {
+    text-align: center;
+    color: #fff;
+    padding: 25px 0;
+    background: #212f3d;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  footer .copyright {
+    margin-bottom: 0.3rem;
+  }
+  footer .credits {
+    margin-bottom: 0;
+  }
+  footer .credits a {
+    color: #fff;
+  }
