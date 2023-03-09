@@ -12,3 +12,5 @@ I made this program to test my nieces maths skills by generating random times ta
 3. You know what? I want to use this anywhere and so will you so let me just make it a website right?
    Well I haven't hosted it anywhere so just clone it and try it out.
     Click Play and enjoy.
+
+4. I got it going, just go to 'https://didimaths.netlify.app'.  
